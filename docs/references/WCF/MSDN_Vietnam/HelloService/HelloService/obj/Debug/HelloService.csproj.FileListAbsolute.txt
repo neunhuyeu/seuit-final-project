@@ -1,0 +1,8 @@
+D:\PROGRAMMING\DOTNET\WCF\MSDN_Vietnam\HelloService\HelloService\bin\Debug\HelloService.dll.config
+D:\PROGRAMMING\DOTNET\WCF\MSDN_Vietnam\HelloService\HelloService\bin\Debug\HelloService.dll
+D:\PROGRAMMING\DOTNET\WCF\MSDN_Vietnam\HelloService\HelloService\bin\Debug\HelloService.pdb
+D:\PROGRAMMING\DOTNET\WCF\MSDN_Vietnam\HelloService\HelloService\bin\Debug\HelloService.dll.CodeAnalysisLog.xml
+D:\PROGRAMMING\DOTNET\WCF\MSDN_Vietnam\HelloService\HelloService\bin\Debug\HelloService.dll.lastcodeanalysissucceeded
+D:\PROGRAMMING\DOTNET\WCF\MSDN_Vietnam\HelloService\HelloService\obj\Debug\ResolveAssemblyReference.cache
+D:\PROGRAMMING\DOTNET\WCF\MSDN_Vietnam\HelloService\HelloService\obj\Debug\HelloService.dll
+D:\PROGRAMMING\DOTNET\WCF\MSDN_Vietnam\HelloService\HelloService\obj\Debug\HelloService.pdb
